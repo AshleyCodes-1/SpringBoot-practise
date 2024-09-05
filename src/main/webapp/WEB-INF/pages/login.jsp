@@ -73,7 +73,7 @@
     
     <button type="submit" class="btn btn-primary">Submit</button>
     <button type="reset" class="btn btn-danger">Reset</button>
-    <a href="registration"><button type="button" class="btn btn-warning">Sign Up</button></a>
+    <a href="registration"><button type="button" class="btn btn-warning">sign Up page</button></a>
   </form>
 </div>
 
