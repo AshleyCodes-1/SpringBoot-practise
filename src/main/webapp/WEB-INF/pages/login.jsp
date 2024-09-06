@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>login page</title>
+<title>Login Page</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css">
@@ -73,7 +73,7 @@
     
     <button type="submit" class="btn btn-primary">Submit</button>
     <button type="reset" class="btn btn-danger">Reset</button>
-    <a href="registration"><button type="button" class="btn btn-warning">sign Up page</button></a>
+    <a href="registration"><button type="button" class="btn btn-warning">Sign Up</button></a>
   </form>
 </div>
 
