@@ -55,7 +55,7 @@
   </div>
 	<div class="alert">
   		<span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>
-		<strong>${msg}</strong>
+		<strong>${msg} Welcome</strong>
 	</div>
   <form action="loginValidate" method="post">
   
